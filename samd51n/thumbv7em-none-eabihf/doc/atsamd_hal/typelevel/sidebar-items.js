@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["NoneT","Type-level version of the None variant"]]});

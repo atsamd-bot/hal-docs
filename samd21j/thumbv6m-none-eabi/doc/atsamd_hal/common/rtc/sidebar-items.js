@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Datetime","Datetime represents an RTC clock/calendar value."],["Rtc","Rtc represents the RTC peripheral for either clock/calendar or timer mode."],["TimerParams","Helper type for computing cycles and divider given frequency"]]});

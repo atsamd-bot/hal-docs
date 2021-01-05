@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["atsamd_hal"] = [{"text":"impl DelayUs&lt;u32&gt; for Delay","synthetic":false,"types":[]},{"text":"impl DelayUs&lt;u16&gt; for Delay","synthetic":false,"types":[]},{"text":"impl DelayUs&lt;u8&gt; for Delay","synthetic":false,"types":[]},{"text":"impl&lt;TIM, TYPE&gt; DelayUs&lt;TYPE&gt; for SleepingDelay&lt;TIM&gt; <span class=\"where fmt-newline\">where<br>&nbsp;&nbsp;&nbsp;&nbsp;TIM: InterruptDrivenTimer,<br>&nbsp;&nbsp;&nbsp;&nbsp;TYPE: Into&lt;u32&gt;,&nbsp;</span>","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

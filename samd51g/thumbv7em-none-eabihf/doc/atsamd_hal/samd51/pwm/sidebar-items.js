@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Channel",""],["TC0Pinout",""],["TC1Pinout",""],["TC2Pinout",""],["TC3Pinout",""],["TCC0Pinout",""],["TCC1Pinout",""],["TCC2Pinout",""]],"struct":[["Pwm0",""],["Pwm1",""],["Pwm2",""],["Pwm3",""],["Tcc0Pwm",""],["Tcc1Pwm",""],["Tcc2Pwm",""]]});

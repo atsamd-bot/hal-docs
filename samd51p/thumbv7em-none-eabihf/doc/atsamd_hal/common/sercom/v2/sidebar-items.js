@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["pad_map","Implementations of the `pads` `Map` trait"],["pads","Version 2 of the SERCOM pads module"]]});

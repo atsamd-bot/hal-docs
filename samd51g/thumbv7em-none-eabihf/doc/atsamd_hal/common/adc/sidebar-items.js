@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Adc",""],["FreeRunning",""],["InterruptAdc","An ADC where results are accessible via interrupt servicing."],["SingleConversion",""]],"trait":[["ConversionMode","Describes how an interrupt-driven ADC should finalize the peripheral upon the completion of a conversion."]]});

@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["atsamd_hal"] = [{"text":"impl&lt;Sercom0Pad0, Sercom0Pad1&gt; Write for I2CMaster0&lt;Sercom0Pad0, Sercom0Pad1&gt;","synthetic":false,"types":[]},{"text":"impl&lt;Sercom1Pad0, Sercom1Pad1&gt; Write for I2CMaster1&lt;Sercom1Pad0, Sercom1Pad1&gt;","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["atsamd_hal"] = [{"text":"impl&lt;I, M&gt; TryFrom&lt;DynPin&gt; for Pin&lt;I, M&gt; <span class=\"where fmt-newline\">where<br>&nbsp;&nbsp;&nbsp;&nbsp;I: PinId,<br>&nbsp;&nbsp;&nbsp;&nbsp;M: PinMode,&nbsp;</span>","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

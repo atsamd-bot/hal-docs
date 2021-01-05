@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["atsamd_hal"] = [{"text":"impl CountDown for Rtc","synthetic":false,"types":[]},{"text":"impl&lt;TC&gt; CountDown for TimerCounter&lt;TC&gt; <span class=\"where fmt-newline\">where<br>&nbsp;&nbsp;&nbsp;&nbsp;TC: Count16,&nbsp;</span>","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

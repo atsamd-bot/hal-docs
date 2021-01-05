@@ -1,0 +1,1 @@
+initSidebarItems({"macro":[["dbgprint",""],["define_pins","This macro is a helper for defining a `Pins` type in a board support crate.  This type is used to provide more meaningful aliases for the various GPIO pins for a given board."]],"mod":[["common",""],["samd21",""],["typelevel","Module supporting type-level programming"]]});
